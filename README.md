@@ -1,5 +1,5 @@
 # JSONUtil
-## Original Project -  http://jsonutil.riaforge.org/
+## Original Project -  http://jsonutil.riaforge.org/ by Nathan Mische
 
 JSONUtil Version @VERSION@ Read Me
 
@@ -32,7 +32,7 @@ http://www.amazon.com/gp/registry/wishlist/1PMU5WXR9RZNJ/ref=wl_web/
 2. License and Credits
 -----------------------------------------------------------------------
 
-Copyright 2009 Nathan Mische
+Copyright 2015 Kunal Bajpai
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may
 not use this file except in compliance with the License. You may obtain
@@ -50,14 +50,10 @@ permissions and limitations under the License.
 3. Contributors
 -----------------------------------------------------------------------
 
-Many people helped us create ColdFire. This list is not complete, so
-please know that this was a group effort and your feedback is always
-appreciated.
-
--Thank you to the CFJSON project, http://www.epiphantastic.com/cfjson. 
- This project probably would not have happened were it not for CFJSON. 
- Thank you to Jehiah Czebotar, Thomas Messier, and everyone who has 
- contributed to the CFJSON project.
+Thank you to the CFJSON project, http://www.epiphantastic.com/cfjson. 
+This project probably would not have happened were it not for CFJSON. 
+Thank you to Nathan Mische, Jehiah Czebotar, Thomas Messier, and everyone who has 
+contributed to the CFJSON project.
 
 
 4. Use
