@@ -7,9 +7,8 @@
 2.  License and Credits
 3.  Contributors
 4.  Use
-4.1 Methods
-4.2 ColdSpring AOP
-
+        4.1. Methods
+        4.2. ColdSpring AOP
 
 1. Welcome
 -----------------------------------------------------------------------
@@ -28,7 +27,6 @@ their Amazon wish lists:
 Nathan Mische
 http://www.amazon.com/gp/registry/wishlist/1PMU5WXR9RZNJ/ref=wl_web/
 
-
 2. License and Credits
 -----------------------------------------------------------------------
 
@@ -46,7 +44,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
 implied. See the License for the specific language governing 
 permissions and limitations under the License.
 
-
 3. Contributors
 -----------------------------------------------------------------------
 
@@ -55,10 +52,8 @@ This project probably would not have happened were it not for CFJSON.
 Thank you to Nathan Mische, Jehiah Czebotar, Thomas Messier, and everyone who has 
 contributed to the CFJSON project.
 
-
 4. Use
 -----------------------------------------------------------------------
-
 4.1. Methods
 
 The JSONUtil component has two main methods, deserializeJSON and 
