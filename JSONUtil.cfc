@@ -397,7 +397,7 @@ limitations under the License.
 			<cfset dJSONString = ArrayNew(1) />
 			<cfset arKeys = StructKeyArray(_data) />
 			<cfloop from="1" to="#ArrayLen(arKeys)#" index="i">
-				<cfif IsDefined("_data.#arKeys[i]#") >
+				<cfif structKeyExists(_data, #arKeys[i]#) >
 					<cfset tempVal = serializeToJSON(_data[ arKeys[i] ], arguments.serializeQueryByColumns, arguments.strictMapping ) />
 				<cfelse>
 					<cfset tempVal = "null" />
